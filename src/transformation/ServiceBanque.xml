@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BanqueService>
+	<getCompte>
+		<code>1</code>
+		<solde>1000.0</solde>
+		<dateCreation>2023-01-15</dateCreation>
+	</getCompte>
+	<getCompte>
+		<code>2</code>
+		<solde>2500.0</solde>
+		<dateCreation>2022-11-30</dateCreation>
+	</getCompte>
+	<getCompte>
+		<code>3</code>
+		<solde>500.0</solde>
+		<dateCreation>2023-05-20</dateCreation>
+	</getCompte>
+	<getCompte>
+		<code>4</code>
+		<solde>4300.0</solde>
+		<dateCreation>2023-09-10</dateCreation>
+	</getCompte>
+	<getCompte>
+		<code>5</code>
+		<solde>300.0</solde>
+		<dateCreation>2023-06-05</dateCreation>
+	</getCompte>
+</BanqueService>
